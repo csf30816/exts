@@ -30,23 +30,16 @@
     text-decoration: none;
     color: black;
     transition: all .15s ease;
-}
-
-a {
-    transition: all .15s ease;
-    color: #2599D3;
-    text-decoration: none;
-}
-
-a:hover {
-    transition: all .15s ease;
-    color: #1B78A7;
+    padding: 10px;
+    width:100%;
+    background-color: transparent;
 }
 
 .modal-content, a:hover {
     text-decoration: underline;
     color: blue;
     transition: all .15s ease;
+    background-color: rgba(114, 114, 114, 0.29);
 }
 
 /* The Close Button */
