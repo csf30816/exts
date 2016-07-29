@@ -32,6 +32,18 @@
     transition: all .15s ease;
 }
 
+a {
+    transition: all .15s ease;
+    color: #2599D3;
+    text-decoration: none;
+}
+
+a:hover {
+    transition: all .15s ease;
+    color: #1B78A7;
+    text-decoration: underline;
+}
+
 .modal-content, a:hover {
     text-decoration: underline;
     color: blue;
