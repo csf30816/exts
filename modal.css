@@ -20,7 +20,6 @@
     border: 0px solid #888;
     width: 15%;
     height: 100%;
-    padding: 0 20px;
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     color: black;
@@ -36,6 +35,7 @@
     padding: 10px 15px;
     fill: #6f6f6f;
     height: 30px;
+    padding-top: 15px;
     }
 modal-a {
     transition: all .15s ease;
