@@ -15,12 +15,12 @@
 
 /* Modal Content */
 .modal-content {
-    background-color: #fefefe;
+    background-color: #FCFCFC;
     margin: 0;
-    padding: 20px;
-    border: 1px solid #888;
-    width: 25%;
+    border: 0px solid #888;
+    width: 15%;
     height: 100%;
+    padding: 0 20px;
 }
 
 /* The Close Button */
