@@ -39,7 +39,7 @@
     }
 
 .a:hover {
-    color: #25AFF4;
+    text-decoration: none;
     transition: all .15s ease;
     background-color: #DDD;
     /*width: 100%;*/
