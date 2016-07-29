@@ -53,7 +53,7 @@ modal-a:hover {
     color: #25AFF4;
     transition: all .15s ease;
     background-color: #DDD;
-    width: 100%;
+    /*width: 100%;*/
 }
 
 /* The Close Button */
