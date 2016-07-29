@@ -41,7 +41,6 @@ a {
 a:hover {
     transition: all .15s ease;
     color: #1B78A7;
-    text-decoration: underline;
 }
 
 .modal-content, a:hover {
