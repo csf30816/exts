@@ -65,12 +65,12 @@
 
 .modal-head {
     margin: 0;
-    height: 100px;
+    height: 60px;
     width: 100%;
     background-color: #F07724;
     text-align: center;
 }
 
 .modal-head, span {
-    padding-top: 65px;
+    padding-top: 25px;
 }
